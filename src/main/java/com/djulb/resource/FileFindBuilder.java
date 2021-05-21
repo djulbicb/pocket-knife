@@ -1,6 +1,6 @@
 package com.djulb.resource;
 
-import com.pocketknife.model.Folder;
+import com.djulb.model.Folder;
 
 import java.io.File;
 import java.io.FileNotFoundException;

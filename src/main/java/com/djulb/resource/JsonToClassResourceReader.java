@@ -1,7 +1,7 @@
 package com.djulb.resource;
 
+import com.djulb.io.ResourceRead;
 import com.google.gson.Gson;
-import com.pocketknife.io.ResourceRead;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;

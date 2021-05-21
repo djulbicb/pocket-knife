@@ -1,7 +1,6 @@
 package com.djulb.io;
 
-import com.pocketknife.string.StringUtil;
-
+import com.djulb.string.StringUtil;
 
 public class ResourceRead {
     public static String readString(String filePath) {

@@ -1,6 +1,6 @@
 package com.djulb.resource;
 
-import com.pocketknife.model.Folder;
+import com.djulb.model.Folder;
 import com.squareup.javapoet.*;
 
 import javax.lang.model.element.Modifier;
